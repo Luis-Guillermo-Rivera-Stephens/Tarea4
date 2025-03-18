@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -25,5 +25,7 @@
+ <p>Esto es un párrafo</p>
+ <img src="https://images.app.goo.gl/RR1bK2MLXwe88TK77">
+ <h1>Esto es un header</h1>
++<script src="Scripts/script.js"></script>
++
+ </body>
+ </html>
+\ No newline at end of file
